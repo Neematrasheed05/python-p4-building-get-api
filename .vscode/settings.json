@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "game database",
+            "database": "${workspaceFolder:python-p4-building-get-api}/server/instance/app.db"
+        }
+    ]
+}
